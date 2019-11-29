@@ -1,0 +1,3 @@
+[submodule "jmsd_component"]
+	path = jmsd_component
+	url = https://github.com/jiteman/jmsd_component.git
