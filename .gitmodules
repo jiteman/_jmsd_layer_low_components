@@ -1,3 +1,6 @@
 [submodule "jmsd_component"]
 	path = jmsd_component
 	url = https://github.com/jiteman/jmsd_component.git
+[submodule "jmsd_nutfield"]
+	path = jmsd_nutfield
+	url = https://github.com/jiteman/jmsd_nutfield.git
