@@ -4,3 +4,6 @@
 [submodule "jmsd_nutfield"]
 	path = jmsd_nutfield
 	url = https://github.com/jiteman/jmsd_nutfield.git
+[submodule "jmsd_component_with_tests"]
+	path = jmsd_component_with_tests
+	url = https://github.com/jiteman/jmsd_component_with_tests.git

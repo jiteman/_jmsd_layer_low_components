@@ -7,6 +7,7 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 
 add_subdirectory( jmsd_component ) # template
+add_subdirectory( jmsd_component_with_tests ) # template
 add_subdirectory( jmsd_nutfield ) # native unit-testing framework
 
 
